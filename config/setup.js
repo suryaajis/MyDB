@@ -6,11 +6,11 @@ const pool = require('./connection')
 
 const createTablePoliticians = `
 CREATE TABLE IF NOT EXISTS "Politicians" (
-  id SERIAL PRIMARY KEY,
+  id SERIAL PRIMARY KEY,cd ..
   "name" VARCHAR NOT NULL,
   "party" VARCHAR NOT NULL,
   "location" VARCHAR NOT NULL,
-  "grade_current" VARCHAR NOT NULL
+  "grade_current" DECIMAL
 );
 `
 

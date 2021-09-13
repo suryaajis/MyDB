@@ -18,9 +18,9 @@ dataPoliticians.forEach((politician, index) => {
   let {name, party, location, grade_current} = politician
 
   if( index === dataPoliticians.length - 1 ) {
-    insertPoliticianQuery += `('${name}', '${party}', '${location}', '${grade_current}');`
+    insertPoliticianQuery += `('${name}', '${party}', '${location}', ${grade_current});`
   } else {
-    insertPoliticianQuery += `('${name}', '${party}', '${location}', '${grade_current}'), `
+    insertPoliticianQuery += `('${name}', '${party}', '${location}', ${grade_current}), `
   }
 })
 

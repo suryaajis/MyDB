@@ -7,7 +7,7 @@ class Controller {
       if(err) {
         View.showError(err)
       } else {
-
+        View.showQueryOne(data)
       }
     })
   }

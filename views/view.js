@@ -3,6 +3,9 @@ class View {
     console.log(err)
   }
 
+  static showQueryOne(data) {
+    console.log(data)
+  }
 
 }
 
