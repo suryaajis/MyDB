@@ -1,2 +1,2 @@
 # MyDB
-Make some work wtih database
+Make some work practice with database
