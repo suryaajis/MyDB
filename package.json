@@ -1,0 +1,23 @@
+{
+  "name": "MyDB",
+  "version": "1.0.0",
+  "description": "Make some work wtih database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryaajis330/MyDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryaajis330/MyDB/issues"
+  },
+  "homepage": "https://github.com/suryaajis330/MyDB#readme",
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
+}
