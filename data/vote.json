@@ -1,0 +1,654 @@
+[
+  {
+      "voterId": 1,
+      "politicianId": 17
+  },
+  {
+      "voterId": 2,
+      "politicianId": 3
+  },
+  {
+      "voterId": 3,
+      "politicianId": 7
+  },
+  {
+      "voterId": 4,
+      "politicianId": 20
+  },
+  {
+      "voterId": 5,
+      "politicianId": 11
+  },
+  {
+      "voterId": 6,
+      "politicianId": 12
+  },
+  {
+      "voterId": 7,
+      "politicianId": 13
+  },
+  {
+      "voterId": 8,
+      "politicianId": 7
+  },
+  {
+      "voterId": 9,
+      "politicianId": 1
+  },
+  {
+      "voterId": 10,
+      "politicianId": 2
+  },
+  {
+      "voterId": 11,
+      "politicianId": 3
+  },
+  {
+      "voterId": 12,
+      "politicianId": 4
+  },
+  {
+      "voterId": 13,
+      "politicianId": 5
+  },
+  {
+      "voterId": 14,
+      "politicianId": 6
+  },
+  {
+      "voterId": 15,
+      "politicianId": 7
+  },
+  {
+      "voterId": 16,
+      "politicianId": 8
+  },
+  {
+      "voterId": 17,
+      "politicianId": 9
+  },
+  {
+      "voterId": 18,
+      "politicianId": 10
+  },
+  {
+      "voterId": 19,
+      "politicianId": 11
+  },
+  {
+      "voterId": 20,
+      "politicianId": 12
+  },
+  {
+      "voterId": 21,
+      "politicianId": 7
+  },
+  {
+      "voterId": 22,
+      "politicianId": 13
+  },
+  {
+      "voterId": 23,
+      "politicianId": 19
+  },
+  {
+      "voterId": 24,
+      "politicianId": 18
+  },
+  {
+      "voterId": 25,
+      "politicianId": 16
+  },
+  {
+      "voterId": 26,
+      "politicianId": 16
+  },
+  {
+      "voterId": 27,
+      "politicianId": 7
+  },
+  {
+      "voterId": 28,
+      "politicianId": 10
+  },
+  {
+      "voterId": 29,
+      "politicianId": 9
+  },
+  {
+      "voterId": 30,
+      "politicianId": 1
+  },
+  {
+      "voterId": 31,
+      "politicianId": 2
+  },
+  {
+      "voterId": 32,
+      "politicianId": 3
+  },
+  {
+      "voterId": 33,
+      "politicianId": 7
+  },
+  {
+      "voterId": 34,
+      "politicianId": 5
+  },
+  {
+      "voterId": 35,
+      "politicianId": 10
+  },
+  {
+      "voterId": 36,
+      "politicianId": 7
+  },
+  {
+      "voterId": 37,
+      "politicianId": 7
+  },
+  {
+      "voterId": 38,
+      "politicianId": 7
+  },
+  {
+      "voterId": 39,
+      "politicianId": 2
+  },
+  {
+      "voterId": 40,
+      "politicianId": 4
+  },
+  {
+      "voterId": 41,
+      "politicianId": 20
+  },
+  {
+      "voterId": 42,
+      "politicianId": 7
+  },
+  {
+      "voterId": 43,
+      "politicianId": 7
+  },
+  {
+      "voterId": 44,
+      "politicianId": 7
+  },
+  {
+      "voterId": 45,
+      "politicianId": 4
+  },
+  {
+      "voterId": 46,
+      "politicianId": 2
+  },
+  {
+      "voterId": 47,
+      "politicianId": 11
+  },
+  {
+      "voterId": 48,
+      "politicianId": 13
+  },
+  {
+      "voterId": 49,
+      "politicianId": 6
+  },
+  {
+      "voterId": 50,
+      "politicianId": 5
+  },
+  {
+      "voterId": 51,
+      "politicianId": 15
+  },
+  {
+      "voterId": 52,
+      "politicianId": 19
+  },
+  {
+      "voterId": 53,
+      "politicianId": 20
+  },
+  {
+      "voterId": 54,
+      "politicianId": 4
+  },
+  {
+      "voterId": 55,
+      "politicianId": 7
+  },
+  {
+      "voterId": 56,
+      "politicianId": 4
+  },
+  {
+      "voterId": 57,
+      "politicianId": 6
+  },
+  {
+      "voterId": 58,
+      "politicianId": 7
+  },
+  {
+      "voterId": 59,
+      "politicianId": 8
+  },
+  {
+      "voterId": 60,
+      "politicianId": 12
+  },
+  {
+      "voterId": 61,
+      "politicianId": 7
+  },
+  {
+      "voterId": 62,
+      "politicianId": 11
+  },
+  {
+      "voterId": 63,
+      "politicianId": 7
+  },
+  {
+      "voterId": 64,
+      "politicianId": 5
+  },
+  {
+      "voterId": 65,
+      "politicianId": 11
+  },
+  {
+      "voterId": 66,
+      "politicianId": 13
+  },
+  {
+      "voterId": 67,
+      "politicianId": 14
+  },
+  {
+      "voterId": 68,
+      "politicianId": 7
+  },
+  {
+      "voterId": 69,
+      "politicianId": 7
+  },
+  {
+      "voterId": 70,
+      "politicianId": 2
+  },
+  {
+      "voterId": 71,
+      "politicianId": 7
+  },
+  {
+      "voterId": 72,
+      "politicianId": 9
+  },
+  {
+      "voterId": 73,
+      "politicianId": 7
+  },
+  {
+      "voterId": 74,
+      "politicianId": 5
+  },
+  {
+      "voterId": 75,
+      "politicianId": 7
+  },
+  {
+      "voterId": 76,
+      "politicianId": 17
+  },
+  {
+      "voterId": 77,
+      "politicianId": 18
+  },
+  {
+      "voterId": 78,
+      "politicianId": 17
+  },
+  {
+      "voterId": 79,
+      "politicianId": 7
+  },
+  {
+      "voterId": 80,
+      "politicianId": 5
+  },
+  {
+      "voterId": 81,
+      "politicianId": 4
+  },
+  {
+      "voterId": 82,
+      "politicianId": 7
+  },
+  {
+      "voterId": 83,
+      "politicianId": 3
+  },
+  {
+      "voterId": 84,
+      "politicianId": 4
+  },
+  {
+      "voterId": 85,
+      "politicianId": 6
+  },
+  {
+      "voterId": 86,
+      "politicianId": 14
+  },
+  {
+      "voterId": 87,
+      "politicianId": 12
+  },
+  {
+      "voterId": 88,
+      "politicianId": 12
+  },
+  {
+      "voterId": 89,
+      "politicianId": 12
+  },
+  {
+      "voterId": 90,
+      "politicianId": 7
+  },
+  {
+      "voterId": 91,
+      "politicianId": 1
+  },
+  {
+      "voterId": 92,
+      "politicianId": 1
+  },
+  {
+      "voterId": 93,
+      "politicianId": 4
+  },
+  {
+      "voterId": 94,
+      "politicianId": 2
+  },
+  {
+      "voterId": 95,
+      "politicianId": 6
+  },
+  {
+      "voterId": 96,
+      "politicianId": 7
+  },
+  {
+      "voterId": 97,
+      "politicianId": 9
+  },
+  {
+      "voterId": 98,
+      "politicianId": 10
+  },
+  {
+      "voterId": 99,
+      "politicianId": 10
+  },
+  {
+      "voterId": 100,
+      "politicianId": 10
+  },
+  {
+      "voterId": 101,
+      "politicianId": 12
+  },
+  {
+      "voterId": 102,
+      "politicianId": 7
+  },
+  {
+      "voterId": 103,
+      "politicianId": 4
+  },
+  {
+      "voterId": 104,
+      "politicianId": 6
+  },
+  {
+      "voterId": 105,
+      "politicianId": 7
+  },
+  {
+      "voterId": 106,
+      "politicianId": 7
+  },
+  {
+      "voterId": 107,
+      "politicianId": 8
+  },
+  {
+      "voterId": 108,
+      "politicianId": 8
+  },
+  {
+      "voterId": 109,
+      "politicianId": 7
+  },
+  {
+      "voterId": 110,
+      "politicianId": 6
+  },
+  {
+      "voterId": 111,
+      "politicianId": 5
+  },
+  {
+      "voterId": 112,
+      "politicianId": 7
+  },
+  {
+      "voterId": 113,
+      "politicianId": 7
+  },
+  {
+      "voterId": 114,
+      "politicianId": 7
+  },
+  {
+      "voterId": 115,
+      "politicianId": 7
+  },
+  {
+      "voterId": 116,
+      "politicianId": 7
+  },
+  {
+      "voterId": 117,
+      "politicianId": 7
+  },
+  {
+      "voterId": 118,
+      "politicianId": 7
+  },
+  {
+      "voterId": 119,
+      "politicianId": 7
+  },
+  {
+      "voterId": 120,
+      "politicianId": 7
+  },
+  {
+      "voterId": 121,
+      "politicianId": 4
+  },
+  {
+      "voterId": 122,
+      "politicianId": 6
+  },
+  {
+      "voterId": 123,
+      "politicianId": 7
+  },
+  {
+      "voterId": 124,
+      "politicianId": 7
+  },
+  {
+      "voterId": 125,
+      "politicianId": 7
+  },
+  {
+      "voterId": 126,
+      "politicianId": 7
+  },
+  {
+      "voterId": 127,
+      "politicianId": 7
+  },
+  {
+      "voterId": 128,
+      "politicianId": 3
+  },
+  {
+      "voterId": 129,
+      "politicianId": 19
+  },
+  {
+      "voterId": 130,
+      "politicianId": 12
+  },
+  {
+      "voterId": 131,
+      "politicianId": 12
+  },
+  {
+      "voterId": 132,
+      "politicianId": 5
+  },
+  {
+      "voterId": 133,
+      "politicianId": 9
+  },
+  {
+      "voterId": 134,
+      "politicianId": 10
+  },
+  {
+      "voterId": 135,
+      "politicianId": 10
+  },
+  {
+      "voterId": 136,
+      "politicianId": 14
+  },
+  {
+      "voterId": 137,
+      "politicianId": 13
+  },
+  {
+      "voterId": 138,
+      "politicianId": 13
+  },
+  {
+      "voterId": 139,
+      "politicianId": 11
+  },
+  {
+      "voterId": 140,
+      "politicianId": 6
+  },
+  {
+      "voterId": 141,
+      "politicianId": 5
+  },
+  {
+      "voterId": 142,
+      "politicianId": 7
+  },
+  {
+      "voterId": 143,
+      "politicianId": 5
+  },
+  {
+      "voterId": 144,
+      "politicianId": 7
+  },
+  {
+      "voterId": 145,
+      "politicianId": 6
+  },
+  {
+      "voterId": 146,
+      "politicianId": 7
+  },
+  {
+      "voterId": 147,
+      "politicianId": 7
+  },
+  {
+      "voterId": 148,
+      "politicianId": 7
+  },
+  {
+      "voterId": 149,
+      "politicianId": 7
+  },
+  {
+      "voterId": 150,
+      "politicianId": 7
+  },
+  {
+      "voterId": 1,
+      "politicianId": 4
+  },
+  {
+      "voterId": 18,
+      "politicianId": 3
+  },
+  {
+      "voterId": 20,
+      "politicianId": 9
+  },
+  {
+      "voterId": 44,
+      "politicianId": 10
+  },
+  {
+      "voterId": 44,
+      "politicianId": 8
+  },
+  {
+      "voterId": 56,
+      "politicianId": 11
+  },
+  {
+      "voterId": 56,
+      "politicianId": 5
+  },
+  {
+      "voterId": 56,
+      "politicianId": 3
+  },
+  {
+      "voterId": 101,
+      "politicianId": 7
+  },
+  {
+      "voterId": 101,
+      "politicianId": 14
+  },
+  {
+      "voterId": 143,
+      "politicianId": 17
+  },
+  {
+      "voterId": 35,
+      "politicianId": 13
+  },
+  {
+      "voterId": 28,
+      "politicianId": 12
+  }
+]
